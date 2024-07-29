@@ -50,9 +50,9 @@
 #full-slide .banner li{position:absolute;top:0;left:0;right:0;bottom:0;background-position:center;background-size:cover;background-repeat:no-repeat;opacity:0;
                        -webkit-transition:opacity .6s ease-in-out;transition:opacity .6s ease-in-out}
 #full-slide .banner li.active{opacity:1;-webkit-transition:opacity .6s ease-in-out;transition:opacity .6s ease-in-out}
-#full-slide .banner li:nth-child(1){background-image:url("../img/full-slide/thum1.PNG")}
-#full-slide .banner li:nth-child(2){background-image:url("../img/full-slide/thum2.PNG")}
-#full-slide .banner li:nth-child(3){background-image:url("../img/full-slide/thum3.PNG")}
+#full-slide .banner li:nth-child(1){background-image:url("../img/full-slide/thum1.png")}
+#full-slide .banner li:nth-child(2){background-image:url("../img/full-slide/thum2.png")}
+#full-slide .banner li:nth-child(3){background-image:url("../img/full-slide/thum3.png")}
 #full-slide i{position:absolute;top:50%;-webkit-transform:translateY(-50%) scale(1);transform:translateY(-50%) scale(1);width:60px;height:60px;font-size:28px;text-align:center;line-height:60px;background-color:#fff;cursor:pointer;z-index:10;
               -webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
 #full-slide i:hover{-webkit-transform:translateY(-50%) scale(1.1);transform:translateY(-50%) scale(1.1)}#full-slide .prev{left:30px}
